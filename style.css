@@ -61,24 +61,15 @@ p {
 /* Lower left part  */
 .container2 {
     background: rgb(255, 255, 115) center no-repeat;
-    padding: 10px;
-}
-
-.container2 p {
-    margin: 0 100px 0 50;
+    padding: 10px 20px;
 }
 
 .image-container {
     height: 100%;
     width: 100%;
-    background: url(bg.jpg) center/cover;
+    background: url(Assignment-2-1.PNG) center/cover;
 }
 
-.image-container h3 {
-    color: #ececfb;
-    padding: 10%;
-    font: 500 2em;
-}
 
 /* Lower right Part  */
 .container3 {
